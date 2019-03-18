@@ -1,0 +1,8 @@
+Used Github repository park2331/compiler for reference for the semantic action rules and as reference for the function to print symbol tables.
+
+Used Github repository andschwa/partial-cpp-compiler as reference for code generation.
+
+Used modified *alctree code from lecture notes.
+
+
+
